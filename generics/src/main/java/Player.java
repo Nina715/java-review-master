@@ -1,7 +1,7 @@
-public abstract class Player {
+public abstract class Player<T> {
     private String name;
-     public Player (String name){
-         this.name = name;
+     public Player (T name){
+         this.name = (String) name;
      }
 
      public String getName(){
