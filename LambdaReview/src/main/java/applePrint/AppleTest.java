@@ -11,6 +11,7 @@ public class AppleTest {
         appleInventory.add(new Apple(AppleColor.GREEN, 160));
         appleInventory.add(new Apple(AppleColor.GREEN, 85));
         appleInventory.add(new Apple(AppleColor.RED, 155));
+        appleInventory.add(Apple.builder().color(AppleColor.GREEN).weight(200).build());
 
         applePrintPredicate simplePrint = m-> System.out.println("An apple of "+m.getWeight()+" g");
         applePrintPredicate fancyPrint = m ->{

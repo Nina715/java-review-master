@@ -9,5 +9,5 @@ public class Apple {
     private AppleColor color;
     private int weight;
 
-
+// builder generate an all arg constructor unless there is another @XConstructor
 }
