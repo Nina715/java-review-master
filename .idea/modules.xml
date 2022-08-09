@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CollectionReview/CollectionReview.iml" filepath="$PROJECT_DIR$/CollectionReview/CollectionReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaReview/LambdaReview.iml" filepath="$PROJECT_DIR$/LambdaReview/LambdaReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-review-master.iml" filepath="$PROJECT_DIR$/.idea/java-review-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-review/oop-review.iml" filepath="$PROJECT_DIR$/oop-review/oop-review.iml" />
