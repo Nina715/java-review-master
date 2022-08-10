@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/generics/pom.xml" />
         <option value="$PROJECT_DIR$/CollectionReview/pom.xml" />
         <option value="$PROJECT_DIR$/LambdaReview/pom.xml" />
+        <option value="$PROJECT_DIR$/streams/pom.xml" />
       </list>
     </option>
   </component>
