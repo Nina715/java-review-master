@@ -35,5 +35,8 @@ public class CreatingStream {
         // all match: check if all elements match, return boolean
         //non-match: ensure no elements in the stream match the given predicate
         // findany: return any element from a stream
+
+        //reduce:reduce to sum of numbers in a stream
+        //iterate: create infinite stream... can limit the size of stream by using limit
     }
 }
